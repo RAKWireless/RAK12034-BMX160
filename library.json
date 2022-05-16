@@ -1,0 +1,32 @@
+{
+	"name": "RAKwireless RAK12034",
+	"version": "1.0.0",
+	"keywords": [
+		"9-Axis",
+		"BMX160",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12034"
+	],
+	"description": "RAKWireless library for the WisBlock 9DOF RAK12034 module, based on Bosch BMX160",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "tianpeng.liu@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Tianpeng Liu"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK2034-BMX160"
+	},
+	"homepage": "https://rakwireless.com"
+}
