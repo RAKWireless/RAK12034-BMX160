@@ -1,4 +1,4 @@
-| <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>  | ![RAKWireless](./assets/RAK-Whirls.png) | [![Build Status](https://github.com/RAKWireless/RAK12034_BMX160/workflows/RAK%20Library%20Build%20CI/badge.svg)](https://github.com/RAKWireless/RAK12034_BMX160/actions) |
+| <center><img src="./assets/rakstar.jpg" alt="RAKstar" width=25%></center>  | ![RAKWireless](./assets/RAK-Whirls.png) | [![Build Status](https://github.com/RAKWireless/RAK12034-BMX160/workflows/RAK%20Library%20Build%20CI/badge.svg)](https://github.com/RAKWireless/RAK12034-BMX160/actions) |
 | -- | -- | -- |
 
 # RAK12034
@@ -170,11 +170,17 @@ Parameters:
 
 
 ----
+
 ----
+
 ----
+
 Original documentation from DFRobot
+
 ----
+
 ----
+
 ----
 
 # DFRobot_BMX160
